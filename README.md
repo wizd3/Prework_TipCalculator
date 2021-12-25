@@ -1,10 +1,10 @@
 # Pre-work - *Tip Calculator*
 
-**Tip Calculator** is a tip calculator application for iOS.
+**Tippy** is a tip calculator application for iOS.
 
 Submitted by: **Dhiaa Bantan**
 
-Time spent: **6** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -18,10 +18,10 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/6SeB8P8FYA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/nSkzS2lTZ6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Link:
-http://g.recordit.co/6SeB8P8FYA.gif
+http://g.recordit.co/nSkzS2lTZ6.gif
 
 GIF created with RecordIt.
 
